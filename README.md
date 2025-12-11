@@ -2,13 +2,12 @@
 
 ![MoErgo Logo](moergo_logo.png)
 
-This repo is the official ZMK configuration of the MoErgo Glove80 wireless split contoured keyboard. Use it to develop your own keymap and easily build your own ZMK firmware to run on your Glove80.
+This repo is contains my personal ZMK Configuration, forked from the official ZMK configuration for the MoErgo Glove80 wireless split contoured keyboard. 
 
-**NOTE: You can also customize the layout of your Glove80 keyboard with the Glove80 Layout Editor webapp. For most users Glove80 Layout Editor is the recommended and simpler option. More information is available at the official MoErgo Glove80 Support site (see resources below).**
+Use at your own risk, my key-mappings are weird. ;)   
 
-These steps will get you using your keymap on your keyboard in the fastest time possible. It uses the GitHub Actions feature to build your firmware online.
+**NOTE: If you have never used ZMK Studio or GitHub Actions to build your own ZMK Firmware, might I politely suggest you instead use the Glove80 Layout Editor webapp. That is most convenient, and practical, for Glove80 customizations. 
 
-If you are looking to dig deeper into ZMK and develop new functionality, it is recommended to follow the steps of installing ZMK as found on the official ZMK documentation site (linked below).
 
 ## Resources
 - The [official MoErgo Glove80 Support](https://moergo.com/glove80-support) web site. Glove80 documentation and other technical resources.
